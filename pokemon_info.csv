@@ -1,0 +1,802 @@
+name,classfication,japanese_name,pokedex_number,type1,type2,generation,is_legendary
+Bulbasaur,Seed Pokémon,Fushigidaneフシギダネ,1,grass,poison,1,0
+Ivysaur,Seed Pokémon,Fushigisouフシギソウ,2,grass,poison,1,0
+Venusaur,Seed Pokémon,Fushigibanaフシギバナ,3,grass,poison,1,0
+Charmander,Lizard Pokémon,Hitokageヒトカゲ,4,fire,,1,0
+Charmeleon,Flame Pokémon,Lizardoリザード,5,fire,,1,0
+Charizard,Flame Pokémon,Lizardonリザードン,6,fire,flying,1,0
+Squirtle,Tiny Turtle Pokémon,Zenigameゼニガメ,7,water,,1,0
+Wartortle,Turtle Pokémon,Kameilカメール,8,water,,1,0
+Blastoise,Shellfish Pokémon,Kamexカメックス,9,water,,1,0
+Caterpie,Worm Pokémon,Caterpieキャタピー,10,bug,,1,0
+Metapod,Cocoon Pokémon,Transelトランセル,11,bug,,1,0
+Butterfree,Butterfly Pokémon,Butterfreeバタフリー,12,bug,flying,1,0
+Weedle,Hairy Pokémon,Beedleビードル,13,bug,poison,1,0
+Kakuna,Cocoon Pokémon,Cocoonコクーン,14,bug,poison,1,0
+Beedrill,Poison Bee Pokémon,Spearスピアー,15,bug,poison,1,0
+Pidgey,Tiny Bird Pokémon,Poppoポッポ,16,normal,flying,1,0
+Pidgeotto,Bird Pokémon,Pigeonピジョン,17,normal,flying,1,0
+Pidgeot,Bird Pokémon,Pigeotピジョット,18,normal,flying,1,0
+Rattata,Mouse Pokémon,Korattaコラッタ,19,normal,dark,1,0
+Raticate,Mouse Pokémon,Rattaラッタ,20,normal,dark,1,0
+Spearow,Tiny Bird Pokémon,Onisuzumeオニスズメ,21,normal,flying,1,0
+Fearow,Beak Pokémon,Onidrillオニドリル,22,normal,flying,1,0
+Ekans,Snake Pokémon,Arboアーボ,23,poison,,1,0
+Arbok,Cobra Pokémon,Arbokアーボック,24,poison,,1,0
+Pikachu,Mouse Pokémon,Pikachuピカチュウ,25,electric,,1,0
+Raichu,Mouse Pokémon,Raichuライチュウ,26,electric,electric,1,0
+Sandshrew,Mouse Pokémon,Sandサンド,27,ground,ice,1,0
+Sandslash,Mouse Pokémon,Sandpanサンドパン,28,ground,ice,1,0
+Nidoran♀,Poison Pin Pokémon,Nidoran?ニドラン♀,29,poison,,1,0
+Nidorina,Poison Pin Pokémon,Nidorinaニドリーナ,30,poison,,1,0
+Nidoqueen,Drill Pokémon,Nidoqueenニドクイン,31,poison,ground,1,0
+Nidoran♂,Poison Pin Pokémon,Nidoran?ニドラン♂,32,poison,,1,0
+Nidorino,Poison Pin Pokémon,Nidorinoニドリーノ,33,poison,,1,0
+Nidoking,Drill Pokémon,Nidokingニドキング,34,poison,ground,1,0
+Clefairy,Fairy Pokémon,Pippiピッピ,35,fairy,,1,0
+Clefable,Fairy Pokémon,Pixyピクシー,36,fairy,,1,0
+Vulpix,Fox Pokémon,Rokonロコン,37,fire,ice,1,0
+Ninetales,Fox Pokémon,Kyukonキュウコン,38,fire,ice,1,0
+Jigglypuff,Balloon Pokémon,Purinプリン,39,normal,fairy,1,0
+Wigglytuff,Balloon Pokémon,Pukurinプクリン,40,normal,fairy,1,0
+Zubat,Bat Pokémon,Zubatズバット,41,poison,flying,1,0
+Golbat,Bat Pokémon,Golbatゴルバット,42,poison,flying,1,0
+Oddish,Weed Pokémon,Nazonokusaナゾノクサ,43,grass,poison,1,0
+Gloom,Weed Pokémon,Kusaihanaクサイハナ,44,grass,poison,1,0
+Vileplume,Flower Pokémon,Ruffresiaラフレシア,45,grass,poison,1,0
+Paras,Mushroom Pokémon,Parasパラス,46,bug,grass,1,0
+Parasect,Mushroom Pokémon,Parasectパラセクト,47,bug,grass,1,0
+Venonat,Insect Pokémon,Kongpangコンパン,48,bug,poison,1,0
+Venomoth,Poison Moth Pokémon,Morphonモルフォン,49,bug,poison,1,0
+Diglett,Mole Pokémon,Digdaディグダ,50,ground,ground,1,0
+Dugtrio,Mole Pokémon,Dugtrioダグトリオ,51,ground,ground,1,0
+Meowth,Scratch Cat Pokémon,Nyarthニャース,52,normal,dark,1,0
+Persian,Classy Cat Pokémon,Persianペルシアン,53,normal,dark,1,0
+Psyduck,Duck Pokémon,Koduckコダック,54,water,,1,0
+Golduck,Duck Pokémon,Golduckゴルダック,55,water,,1,0
+Mankey,Pig Monkey Pokémon,Mankeyマンキー,56,fighting,,1,0
+Primeape,Pig Monkey Pokémon,Okorizaruオコリザル,57,fighting,,1,0
+Growlithe,Puppy Pokémon,Gardieガーディ,58,fire,,1,0
+Arcanine,Legendary Pokémon,Windieウインディ,59,fire,,1,0
+Poliwag,Tadpole Pokémon,Nyoromoニョロモ,60,water,,1,0
+Poliwhirl,Tadpole Pokémon,Nyorozoニョロゾ,61,water,,1,0
+Poliwrath,Tadpole Pokémon,Nyorobonニョロボン,62,water,fighting,1,0
+Abra,Psi Pokémon,Caseyケーシィ,63,psychic,,1,0
+Kadabra,Psi Pokémon,Yungererユンゲラー,64,psychic,,1,0
+Alakazam,Psi Pokémon,Foodinフーディン,65,psychic,,1,0
+Machop,Superpower Pokémon,Wanrikyワンリキー,66,fighting,,1,0
+Machoke,Superpower Pokémon,Gorikyゴーリキー,67,fighting,,1,0
+Machamp,Superpower Pokémon,Kairikyカイリキー,68,fighting,,1,0
+Bellsprout,Flower Pokémon,Madatsubomiマダツボミ,69,grass,poison,1,0
+Weepinbell,Flycatcher Pokémon,Utsudonウツドン,70,grass,poison,1,0
+Victreebel,Flycatcher Pokémon,Utsubotウツボット,71,grass,poison,1,0
+Tentacool,Jellyfish Pokémon,Menokurageメノクラゲ,72,water,poison,1,0
+Tentacruel,Jellyfish Pokémon,Dokukurageドククラゲ,73,water,poison,1,0
+Geodude,Rock Pokémon,Isitsubuteイシツブテ,74,rock,ground,1,0
+Graveler,Rock Pokémon,Goloneゴローン,75,rock,ground,1,0
+Golem,Megaton Pokémon,Golonyaゴローニャ,76,rock,ground,1,0
+Ponyta,Fire Horse Pokémon,Ponytaポニータ,77,fire,,1,0
+Rapidash,Fire Horse Pokémon,Gallopギャロップ,78,fire,,1,0
+Slowpoke,Dopey Pokémon,Yadonヤドン,79,water,psychic,1,0
+Slowbro,Hermit Crab Pokémon,Yadoranヤドラン,80,water,psychic,1,0
+Magnemite,Magnet Pokémon,Coilコイル,81,electric,steel,1,0
+Magneton,Magnet Pokémon,Rarecoilレアコイル,82,electric,steel,1,0
+Farfetch'd,Wild Duck Pokémon,Kamonegiカモネギ,83,normal,flying,1,0
+Doduo,Twin Bird Pokémon,Dodoドードー,84,normal,flying,1,0
+Dodrio,Triple Bird Pokémon,Dodorioドードリオ,85,normal,flying,1,0
+Seel,Sea Lion Pokémon,Pawouパウワウ,86,water,,1,0
+Dewgong,Sea Lion Pokémon,Jugonジュゴン,87,water,ice,1,0
+Grimer,Sludge Pokémon,Betbeterベトベター,88,poison,poison,1,0
+Muk,Sludge Pokémon,Betbetonベトベトン,89,poison,poison,1,0
+Shellder,Bivalve Pokémon,Shellderシェルダー,90,water,,1,0
+Cloyster,Bivalve Pokémon,Parshenパルシェン,91,water,ice,1,0
+Gastly,Gas Pokémon,Ghosゴース,92,ghost,poison,1,0
+Haunter,Gas Pokémon,Ghostゴースト,93,ghost,poison,1,0
+Gengar,Shadow Pokémon,Gangarゲンガー,94,ghost,poison,1,0
+Onix,Rock Snake Pokémon,Iwarkイワーク,95,rock,ground,1,0
+Drowzee,Hypnosis Pokémon,Sleepeスリープ,96,psychic,,1,0
+Hypno,Hypnosis Pokémon,Sleeperスリーパー,97,psychic,,1,0
+Krabby,River Crab Pokémon,Crabクラブ,98,water,,1,0
+Kingler,Pincer Pokémon,Kinglerキングラー,99,water,,1,0
+Voltorb,Ball Pokémon,Biriridamaビリリダマ,100,electric,,1,0
+Electrode,Ball Pokémon,Marumineマルマイン,101,electric,,1,0
+Exeggcute,Egg Pokémon,Tamatamaタマタマ,102,grass,psychic,1,0
+Exeggutor,Coconut Pokémon,Nassyナッシー,103,grass,psychic,1,0
+Cubone,Lonely Pokémon,Karakaraカラカラ,104,ground,,1,0
+Marowak,Bone Keeper Pokémon,Garagaraガラガラ,105,ground,fire,1,0
+Hitmonlee,Kicking Pokémon,Sawamularサワムラー,106,fighting,,1,0
+Hitmonchan,Punching Pokémon,Ebiwalarエビワラー,107,fighting,,1,0
+Lickitung,Licking Pokémon,Beroringaベロリンガ,108,normal,,1,0
+Koffing,Poison Gas Pokémon,Dogarsドガース,109,poison,,1,0
+Weezing,Poison Gas Pokémon,Matadogasマタドガス,110,poison,,1,0
+Rhyhorn,Spikes Pokémon,Sihornサイホーン,111,ground,rock,1,0
+Rhydon,Drill Pokémon,Sidonサイドン,112,ground,rock,1,0
+Chansey,Egg Pokémon,Luckyラッキー,113,normal,,1,0
+Tangela,Vine Pokémon,Monjaraモンジャラ,114,grass,,1,0
+Kangaskhan,Parent Pokémon,Garuraガルーラ,115,normal,,1,0
+Horsea,Dragon Pokémon,Tattuタッツー,116,water,,1,0
+Seadra,Dragon Pokémon,Seadraシードラ,117,water,,1,0
+Goldeen,Goldfish Pokémon,Tosakintoトサキント,118,water,,1,0
+Seaking,Goldfish Pokémon,Azumaoアズマオウ,119,water,,1,0
+Staryu,Starshape Pokémon,Hitodemanヒトデマン,120,water,,1,0
+Starmie,Mysterious Pokémon,Starmieスターミー,121,water,psychic,1,0
+Mr. Mime,Barrier Pokémon,Barrierdバリヤード,122,psychic,fairy,1,0
+Scyther,Mantis Pokémon,Strikeストライク,123,bug,flying,1,0
+Jynx,Humanshape Pokémon,Rougelaルージュラ,124,ice,psychic,1,0
+Electabuzz,Electric Pokémon,Elebooエレブー,125,electric,,1,0
+Magmar,Spitfire Pokémon,Booberブーバー,126,fire,,1,0
+Pinsir,Stagbeetle Pokémon,Kailiosカイロス,127,bug,,1,0
+Tauros,Wild Bull Pokémon,Kentaurosケンタロス,128,normal,,1,0
+Magikarp,Fish Pokémon,Koikingコイキング,129,water,,1,0
+Gyarados,Atrocious Pokémon,Gyaradosギャラドス,130,water,flying,1,0
+Lapras,Transport Pokémon,Laplaceラプラス,131,water,ice,1,0
+Ditto,Transform Pokémon,Metamonメタモン,132,normal,,1,0
+Eevee,Evolution Pokémon,Eievuiイーブイ,133,normal,,1,0
+Vaporeon,Bubble Jet Pokémon,Showersシャワーズ,134,water,,1,0
+Jolteon,Lightning Pokémon,Thundersサンダース,135,electric,,1,0
+Flareon,Flame Pokémon,Boosterブースター,136,fire,,1,0
+Porygon,Virtual Pokémon,Porygonポリゴン,137,normal,,1,0
+Omanyte,Spiral Pokémon,Omniteオムナイト,138,rock,water,1,0
+Omastar,Spiral Pokémon,Omstarオムスター,139,rock,water,1,0
+Kabuto,Shellfish Pokémon,Kabutoカブト,140,rock,water,1,0
+Kabutops,Shellfish Pokémon,Kabutopsカブトプス,141,rock,water,1,0
+Aerodactyl,Fossil Pokémon,Pteraプテラ,142,rock,flying,1,0
+Snorlax,Sleeping Pokémon,Kabigonカビゴン,143,normal,,1,0
+Articuno,Freeze Pokémon,Freezerフリーザー,144,ice,flying,1,1
+Zapdos,Electric Pokémon,Thunderサンダー,145,electric,flying,1,1
+Moltres,Flame Pokémon,Fireファイヤー,146,fire,flying,1,1
+Dratini,Dragon Pokémon,Miniryuミニリュウ,147,dragon,,1,0
+Dragonair,Dragon Pokémon,Hakuryuハクリュー,148,dragon,,1,0
+Dragonite,Dragon Pokémon,Kairyuカイリュー,149,dragon,flying,1,0
+Mewtwo,Genetic Pokémon,Mewtwoミュウツー,150,psychic,,1,1
+Mew,New Species Pokémon,Mewミュウ,151,psychic,,1,1
+Chikorita,Leaf Pokémon,Chicoritaチコリータ,152,grass,,2,0
+Bayleef,Leaf Pokémon,Bayleafベイリーフ,153,grass,,2,0
+Meganium,Herb Pokémon,Meganiumメガニウム,154,grass,,2,0
+Cyndaquil,Fire Mouse Pokémon,Hinoarashiヒノアラシ,155,fire,,2,0
+Quilava,Volcano Pokémon,Magmarashiマグマラシ,156,fire,,2,0
+Typhlosion,Volcano Pokémon,Bakphoonバクフーン,157,fire,,2,0
+Totodile,Big Jaw Pokémon,Waninokoワニノコ,158,water,,2,0
+Croconaw,Big Jaw Pokémon,Alligatesアリゲイツ,159,water,,2,0
+Feraligatr,Big Jaw Pokémon,Ordileオーダイル,160,water,,2,0
+Sentret,Scout Pokémon,Otachiオタチ,161,normal,,2,0
+Furret,Long Body Pokémon,Ootachiオオタチ,162,normal,,2,0
+Hoothoot,Owl Pokémon,Hohoホーホー,163,normal,flying,2,0
+Noctowl,Owl Pokémon,Yorunozukuヨルノズク,164,normal,flying,2,0
+Ledyba,Five Star Pokémon,Redibaレディバ,165,bug,flying,2,0
+Ledian,Five Star Pokémon,Redianレディアン,166,bug,flying,2,0
+Spinarak,String Spit Pokémon,Itomaruイトマル,167,bug,poison,2,0
+Ariados,Long Leg Pokémon,Ariadosアリアドス,168,bug,poison,2,0
+Crobat,Bat Pokémon,Crobatクロバット,169,poison,flying,2,0
+Chinchou,Angler Pokémon,Chonchieチョンチー,170,water,electric,2,0
+Lanturn,Light Pokémon,Lanternランターン,171,water,electric,2,0
+Pichu,Tiny Mouse Pokémon,Pichuピチュー,172,electric,,2,0
+Cleffa,Star Shape Pokémon,Pyピィ,173,fairy,,2,0
+Igglybuff,Balloon Pokémon,Pupurinププリン,174,normal,fairy,2,0
+Togepi,Spike Ball Pokémon,Togepyトゲピー,175,fairy,,2,0
+Togetic,Happiness Pokémon,Togechickトゲチック,176,fairy,flying,2,0
+Natu,Little Bird Pokémon,Natyネイティ,177,psychic,flying,2,0
+Xatu,Mystic Pokémon,Natioネイティオ,178,psychic,flying,2,0
+Mareep,Wool Pokémon,Merriepメリープ,179,electric,,2,0
+Flaaffy,Wool Pokémon,Mokokoモココ,180,electric,,2,0
+Ampharos,Light Pokémon,Denryuデンリュウ,181,electric,,2,0
+Bellossom,Flower Pokémon,Kireihanaキレイハナ,182,grass,,2,0
+Marill,Aquamouse Pokémon,Marilマリル,183,water,fairy,2,0
+Azumarill,Aquarabbit Pokémon,Marilliマリルリ,184,water,fairy,2,0
+Sudowoodo,Imitation Pokémon,Usokkieウソッキー,185,rock,,2,0
+Politoed,Frog Pokémon,Nyorotonoニョロトノ,186,water,,2,0
+Hoppip,Cottonweed Pokémon,Haneccoハネッコ,187,grass,flying,2,0
+Skiploom,Cottonweed Pokémon,Popoccoポポッコ,188,grass,flying,2,0
+Jumpluff,Cottonweed Pokémon,Wataccoワタッコ,189,grass,flying,2,0
+Aipom,Long Tail Pokémon,Eipamエイパム,190,normal,,2,0
+Sunkern,Seed Pokémon,Himanutsヒマナッツ,191,grass,,2,0
+Sunflora,Sun Pokémon,Kimawariキマワリ,192,grass,,2,0
+Yanma,Clear Wing Pokémon,Yanyanmaヤンヤンマ,193,bug,flying,2,0
+Wooper,Water Fish Pokémon,Upahウパー,194,water,ground,2,0
+Quagsire,Water Fish Pokémon,Nuohヌオー,195,water,ground,2,0
+Espeon,Sun Pokémon,Eifieエーフィ,196,psychic,,2,0
+Umbreon,Moonlight Pokémon,Blackyブラッキー,197,dark,,2,0
+Murkrow,Darkness Pokémon,Yamikarasuヤミカラス,198,dark,flying,2,0
+Slowking,Royal Pokémon,Yadokingヤドキング,199,water,psychic,2,0
+Misdreavus,Screech Pokémon,Mumaムウマ,200,ghost,,2,0
+Unown,Symbol Pokémon,Unknownアンノーン,201,psychic,,2,0
+Wobbuffet,Patient Pokémon,Sonansソーナンス,202,psychic,,2,0
+Girafarig,Long Neck Pokémon,Kirinrikiキリンリキ,203,normal,psychic,2,0
+Pineco,Bagworm Pokémon,Kunugidamaクヌギダマ,204,bug,,2,0
+Forretress,Bagworm Pokémon,Foretosフォレトス,205,bug,steel,2,0
+Dunsparce,Land Snake Pokémon,Nokocchiノコッチ,206,normal,,2,0
+Gligar,Flyscorpion Pokémon,Gligerグライガー,207,ground,flying,2,0
+Steelix,Iron Snake Pokémon,Haganeilハガネール,208,steel,ground,2,0
+Snubbull,Fairy Pokémon,Buluブルー,209,fairy,,2,0
+Granbull,Fairy Pokémon,Granbuluグランブル,210,fairy,,2,0
+Qwilfish,Balloon Pokémon,Harysenハリーセン,211,water,poison,2,0
+Scizor,Pincer Pokémon,Hassamハッサム,212,bug,steel,2,0
+Shuckle,Mold Pokémon,Tsubotsuboツボツボ,213,bug,rock,2,0
+Heracross,Singlehorn Pokémon,Heracrosヘラクロス,214,bug,fighting,2,0
+Sneasel,Sharp Claw Pokémon,Nyulaニューラ,215,dark,ice,2,0
+Teddiursa,Little Bear Pokémon,Himegumaヒメグマ,216,normal,,2,0
+Ursaring,Hibernator Pokémon,Ringumaリングマ,217,normal,,2,0
+Slugma,Lava Pokémon,Magmagマグマッグ,218,fire,,2,0
+Magcargo,Lava Pokémon,Magcargotマグカルゴ,219,fire,rock,2,0
+Swinub,Pig Pokémon,Urimooウリムー,220,ice,ground,2,0
+Piloswine,Swine Pokémon,Inomooイノムー,221,ice,ground,2,0
+Corsola,Coral Pokémon,Sunnygoサニーゴ,222,water,rock,2,0
+Remoraid,Jet Pokémon,Teppouoテッポウオ,223,water,,2,0
+Octillery,Jet Pokémon,Okutankオクタン,224,water,,2,0
+Delibird,Delivery Pokémon,Delibirdデリバード,225,ice,flying,2,0
+Mantine,Kite Pokémon,Mantainマンタイン,226,water,flying,2,0
+Skarmory,Armor Bird Pokémon,Airmdエアームド,227,steel,flying,2,0
+Houndour,Dark Pokémon,Delvilデルビル,228,dark,fire,2,0
+Houndoom,Dark Pokémon,Hellgarヘルガー,229,dark,fire,2,0
+Kingdra,Dragon Pokémon,Kingdraキングドラ,230,water,dragon,2,0
+Phanpy,Long Nose Pokémon,Gomazouゴマゾウ,231,ground,,2,0
+Donphan,Armor Pokémon,Donfanドンファン,232,ground,,2,0
+Porygon2,Virtual Pokémon,Porygon2ポリゴン２,233,normal,,2,0
+Stantler,Big Horn Pokémon,Odoshishiオドシシ,234,normal,,2,0
+Smeargle,Painter Pokémon,Dobleドーブル,235,normal,,2,0
+Tyrogue,Scuffle Pokémon,Balkieバルキー,236,fighting,,2,0
+Hitmontop,Handstand Pokémon,Kapoererカポエラー,237,fighting,,2,0
+Smoochum,Kiss Pokémon,Muchulムチュール,238,ice,psychic,2,0
+Elekid,Electric Pokémon,Elekidエレキッド,239,electric,,2,0
+Magby,Live Coal Pokémon,Bubyブビィ,240,fire,,2,0
+Miltank,Milk Cow Pokémon,Miltankミルタンク,241,normal,,2,0
+Blissey,Happiness Pokémon,Happinasハピナス,242,normal,,2,0
+Raikou,Thunder Pokémon,Raikouライコウ,243,electric,,2,1
+Entei,Volcano Pokémon,Enteiエンテイ,244,fire,,2,1
+Suicune,Aurora Pokémon,Suicuneスイクン,245,water,,2,1
+Larvitar,Rock Skin Pokémon,Yogirasヨーギラス,246,rock,ground,2,0
+Pupitar,Hard Shell Pokémon,Sanagirasサナギラス,247,rock,ground,2,0
+Tyranitar,Armor Pokémon,Bangirasバンギラス,248,rock,dark,2,0
+Lugia,Diving Pokémon,Lugiaルギア,249,psychic,flying,2,1
+Ho-Oh,Rainbow Pokémon,Hououホウオウ,250,fire,flying,2,1
+Celebi,Time Travel Pokémon,Celebiセレビィ,251,psychic,grass,2,1
+Treecko,Wood Gecko Pokémon,Kimoriキモリ,252,grass,,3,0
+Grovyle,Wood Gecko Pokémon,Juptileジュプトル,253,grass,,3,0
+Sceptile,Forest Pokémon,Jukainジュカイン,254,grass,,3,0
+Torchic,Chick Pokémon,Achamoアチャモ,255,fire,,3,0
+Combusken,Young Fowl Pokémon,Wakasyamoワカシャモ,256,fire,fighting,3,0
+Blaziken,Blaze Pokémon,Bursyamoバシャーモ,257,fire,fighting,3,0
+Mudkip,Mud Fish Pokémon,Mizugorouミズゴロウ,258,water,,3,0
+Marshtomp,Mud Fish Pokémon,Numacrawヌマクロー,259,water,ground,3,0
+Swampert,Mud Fish Pokémon,Laglargeラグラージ,260,water,ground,3,0
+Poochyena,Bite Pokémon,Pochienaポチエナ,261,dark,,3,0
+Mightyena,Bite Pokémon,Graenaグラエナ,262,dark,,3,0
+Zigzagoon,Tiny Racoon Pokémon,Jiguzagumaジグザグマ,263,normal,,3,0
+Linoone,Rush Pokémon,Massugumaマッスグマ,264,normal,,3,0
+Wurmple,Worm Pokémon,Kemussoケムッソ,265,bug,,3,0
+Silcoon,Cocoon Pokémon,Karasalisカラサリス,266,bug,,3,0
+Beautifly,Butterfly Pokémon,Agehuntアゲハント,267,bug,flying,3,0
+Cascoon,Cocoon Pokémon,Mayuldマユルド,268,bug,,3,0
+Dustox,Poison Moth Pokémon,Dokucaleドクケイル,269,bug,poison,3,0
+Lotad,Water Weed Pokémon,Hassbohハスボー,270,water,grass,3,0
+Lombre,Jolly Pokémon,Hasubreroハスブレロ,271,water,grass,3,0
+Ludicolo,Carefree Pokémon,Runpappaルンパッパ,272,water,grass,3,0
+Seedot,Acorn Pokémon,Tanebohタネボー,273,grass,,3,0
+Nuzleaf,Wily Pokémon,Konohanaコノハナ,274,grass,dark,3,0
+Shiftry,Wickid Pokémon,Dirtengダーテング,275,grass,dark,3,0
+Taillow,TinySwallow Pokémon,Subameスバメ,276,normal,flying,3,0
+Swellow,Swallow Pokémon,Ohsubameオオスバメ,277,normal,flying,3,0
+Wingull,Seagull Pokémon,Camomeキャモメ,278,water,flying,3,0
+Pelipper,Water Bird Pokémon,Pelipperペリッパー,279,water,flying,3,0
+Ralts,Feeling Pokémon,Raltsラルトス,280,psychic,fairy,3,0
+Kirlia,Emotion Pokémon,Kirliaキルリア,281,psychic,fairy,3,0
+Gardevoir,Embrace Pokémon,Sirnightサーナイト,282,psychic,fairy,3,0
+Surskit,Pond Skater Pokémon,Ametamaアメタマ,283,bug,water,3,0
+Masquerain,Eyeball Pokémon,Amemothアメモース,284,bug,flying,3,0
+Shroomish,Mushroom Pokémon,Kinococoキノココ,285,grass,,3,0
+Breloom,Mushroom Pokémon,Kinogassaキノガッサ,286,grass,fighting,3,0
+Slakoth,Slacker Pokémon,Namakeroナマケロ,287,normal,,3,0
+Vigoroth,Wild Monkey Pokémon,Yarukimonoヤルキモノ,288,normal,,3,0
+Slaking,Lazy Pokémon,Kekkingケッキング,289,normal,,3,0
+Nincada,Trainee Pokémon,Tutininツチニン,290,bug,ground,3,0
+Ninjask,Ninja Pokémon,Tekkaninテッカニン,291,bug,flying,3,0
+Shedinja,Shed Pokémon,Nukeninヌケニン,292,bug,ghost,3,0
+Whismur,Whisper Pokémon,Gonyonyoゴニョニョ,293,normal,,3,0
+Loudred,Big Voice Pokémon,Dogohmbドゴーム,294,normal,,3,0
+Exploud,Loud Noise Pokémon,Bakuongバクオング,295,normal,,3,0
+Makuhita,Guts Pokémon,Makunoshitaマクノシタ,296,fighting,,3,0
+Hariyama,Arm Thrust Pokémon,Hariteyamaハリテヤマ,297,fighting,,3,0
+Azurill,Polka Dot Pokémon,Ruririルリリ,298,normal,fairy,3,0
+Nosepass,Compass Pokémon,Nosepassノズパス,299,rock,,3,0
+Skitty,Kitten Pokémon,Enecoエネコ,300,normal,,3,0
+Delcatty,Prim Pokémon,Enekororoエネコロロ,301,normal,,3,0
+Sableye,Darkness Pokémon,Yamiramiヤミラミ,302,dark,ghost,3,0
+Mawile,Deceiver Pokémon,Kucheatクチート,303,steel,fairy,3,0
+Aron,Iron Armor Pokémon,Cokodoraココドラ,304,steel,rock,3,0
+Lairon,Iron Armor Pokémon,Kodoraコドラ,305,steel,rock,3,0
+Aggron,Iron Armor Pokémon,Bossgodoraボスゴドラ,306,steel,rock,3,0
+Meditite,Meditate Pokémon,Asananアサナン,307,fighting,psychic,3,0
+Medicham,Meditate Pokémon,Charemチャーレム,308,fighting,psychic,3,0
+Electrike,Lightning Pokémon,Rakuraiラクライ,309,electric,,3,0
+Manectric,Discharge Pokémon,Livoltライボルト,310,electric,,3,0
+Plusle,Cheering Pokémon,Prasleプラスル,311,electric,,3,0
+Minun,Cheering Pokémon,Minunマイナン,312,electric,,3,0
+Volbeat,Firefly Pokémon,Barubeatバルビート,313,bug,,3,0
+Illumise,Firefly Pokémon,Illumiseイルミーゼ,314,bug,,3,0
+Roselia,Thorn Pokémon,Roseliaロゼリア,315,grass,poison,3,0
+Gulpin,Stomach Pokémon,Gokulinゴクリン,316,poison,,3,0
+Swalot,Poison Bag Pokémon,Marunoomマルノーム,317,poison,,3,0
+Carvanha,Savage Pokémon,Kibanhaキバニア,318,water,dark,3,0
+Sharpedo,Brutal Pokémon,Samehaderサメハダー,319,water,dark,3,0
+Wailmer,Ball Whale Pokémon,Hoerukoホエルコ,320,water,,3,0
+Wailord,Float Whale Pokémon,Whalohホエルオー,321,water,,3,0
+Numel,Numb Pokémon,Donmelドンメル,322,fire,ground,3,0
+Camerupt,Eruption Pokémon,Bakuudaバクーダ,323,fire,ground,3,0
+Torkoal,Coal Pokémon,Cotoiseコータス,324,fire,,3,0
+Spoink,Bounce Pokémon,Banebooバネブー,325,psychic,,3,0
+Grumpig,Manipulate Pokémon,Boopigブーピッグ,326,psychic,,3,0
+Spinda,Spot Panda Pokémon,Patcheelパッチール,327,normal,,3,0
+Trapinch,Ant Pit Pokémon,Nuckrarナックラー,328,ground,,3,0
+Vibrava,Vibration Pokémon,Vibravaビブラーバ,329,ground,dragon,3,0
+Flygon,Mystic Pokémon,Flygonフライゴン,330,ground,dragon,3,0
+Cacnea,Cactus Pokémon,Saboneaサボネア,331,grass,,3,0
+Cacturne,Scarecrow Pokémon,Noctusノクタス,332,grass,dark,3,0
+Swablu,Cotton Bird Pokémon,Tylttoチルット,333,normal,flying,3,0
+Altaria,Humming Pokémon,Tyltalisチルタリス,334,dragon,flying,3,0
+Zangoose,Cat Ferret Pokémon,Zangooseザングース,335,normal,,3,0
+Seviper,Fang Snake Pokémon,Habunakeハブネーク,336,poison,,3,0
+Lunatone,Meteorite Pokémon,Lunatoneルナトーン,337,rock,psychic,3,0
+Solrock,Meteorite Pokémon,Solrockソルロック,338,rock,psychic,3,0
+Barboach,Whiskers Pokémon,Dojoachドジョッチ,339,water,ground,3,0
+Whiscash,Whiskers Pokémon,Namazunナマズン,340,water,ground,3,0
+Corphish,Ruffian Pokémon,Heiganiヘイガニ,341,water,,3,0
+Crawdaunt,Rogue Pokémon,Shizarigerシザリガー,342,water,dark,3,0
+Baltoy,Clay Doll Pokémon,Yajilonヤジロン,343,ground,psychic,3,0
+Claydol,Clay Doll Pokémon,Nendollネンドール,344,ground,psychic,3,0
+Lileep,Sea Lily Pokémon,Lilylaリリーラ,345,rock,grass,3,0
+Cradily,Barnacle Pokémon,Yuradleユレイドル,346,rock,grass,3,0
+Anorith,Old Shrimp Pokémon,Anopthアノプス,347,rock,bug,3,0
+Armaldo,Plate Pokémon,Armaldoアーマルド,348,rock,bug,3,0
+Feebas,Fish Pokémon,Hinbassヒンバス,349,water,,3,0
+Milotic,Tender Pokémon,Milokarossミロカロス,350,water,,3,0
+Castform,Weather Pokémon,Powalenポワルン,351,normal,,3,0
+Kecleon,Color Swap Pokémon,Kakureonカクレオン,352,normal,,3,0
+Shuppet,Puppet Pokémon,Kagebouzuカゲボウズ,353,ghost,,3,0
+Banette,Marionette Pokémon,Juppetaジュペッタ,354,ghost,,3,0
+Duskull,Requiem Pokémon,Yomawaruヨマワル,355,ghost,,3,0
+Dusclops,Beckon Pokémon,Samayouruサマヨール,356,ghost,,3,0
+Tropius,Fruit Pokémon,Tropiusトロピウス,357,grass,flying,3,0
+Chimecho,Wind Chime Pokémon,Chireanチリーン,358,psychic,,3,0
+Absol,Disaster Pokémon,Absolアブソル,359,dark,,3,0
+Wynaut,Bright Pokémon,Sohnanoソーナノ,360,psychic,,3,0
+Snorunt,Snow Hat Pokémon,Yukiwarashiユキワラシ,361,ice,,3,0
+Glalie,Face Pokémon,Onigohriオニゴーリ,362,ice,,3,0
+Spheal,Clap Pokémon,Tamazarashiタマザラシ,363,ice,water,3,0
+Sealeo,Ball Roll Pokémon,Todogglerトドグラー,364,ice,water,3,0
+Walrein,Ice Break Pokémon,Todoserugaトドゼルガ,365,ice,water,3,0
+Clamperl,Bivalve Pokémon,Pearluluパールル,366,water,,3,0
+Huntail,Deep Sea Pokémon,Huntailハンテール,367,water,,3,0
+Gorebyss,South Sea Pokémon,Sakurabyssサクラビス,368,water,,3,0
+Relicanth,Longevity Pokémon,Glanthジーランス,369,water,rock,3,0
+Luvdisc,Rendezvous Pokémon,Lovecusラブカス,370,water,,3,0
+Bagon,Rock Head Pokémon,Tatsubayタツベイ,371,dragon,,3,0
+Shelgon,Endurance Pokémon,Komoruuコモルー,372,dragon,,3,0
+Salamence,Dragon Pokémon,Bohmanderボーマンダ,373,dragon,flying,3,0
+Beldum,Iron Ball Pokémon,Dumbberダンバル,374,steel,psychic,3,0
+Metang,Iron Claw Pokémon,Metangメタング,375,steel,psychic,3,0
+Metagross,Iron Leg Pokémon,Metagrossメタグロス,376,steel,psychic,3,0
+Regirock,Rock Peak Pokémon,Regirockレジロック,377,rock,,3,1
+Regice,Iceberg Pokémon,Regiceレジアイス,378,ice,,3,1
+Registeel,Iron Pokémon,Registeelレジスチル,379,steel,,3,1
+Latias,Eon Pokémon,Latiasラティアス,380,dragon,psychic,3,1
+Latios,Eon Pokémon,Latiosラティオス,381,dragon,psychic,3,1
+Kyogre,Sea Basin Pokémon,Kyogreカイオーガ,382,water,,3,1
+Groudon,Continent Pokémon,Groudonグラードン,383,ground,,3,1
+Rayquaza,Sky High Pokémon,Rayquazaレックウザ,384,dragon,flying,3,1
+Jirachi,Wish Pokémon,Jirachiジラーチ,385,steel,psychic,3,1
+Deoxys,DNA Pokémon,Deoxysデオキシス,386,psychic,,3,1
+Turtwig,Tiny Leaf Pokémon,Naetleナエトル,387,grass,,4,0
+Grotle,Grove Pokémon,Hayashigameハヤシガメ,388,grass,,4,0
+Torterra,Continent Pokémon,Dodaitoseドダイトス,389,grass,ground,4,0
+Chimchar,Chimp Pokémon,Hikozaruヒコザル,390,fire,,4,0
+Monferno,Playful Pokémon,Moukazaruモウカザル,391,fire,fighting,4,0
+Infernape,Flame Pokémon,Goukazaruゴウカザル,392,fire,fighting,4,0
+Piplup,Penguin Pokémon,Pochamaポッチャマ,393,water,,4,0
+Prinplup,Penguin Pokémon,Pottaishiポッタイシ,394,water,,4,0
+Empoleon,Emperor Pokémon,Emperteエンペルト,395,water,steel,4,0
+Starly,Starling Pokémon,Mukkuruムックル,396,normal,flying,4,0
+Staravia,Starling Pokémon,Mukubirdムクバード,397,normal,flying,4,0
+Staraptor,Predator Pokémon,Mukuhawkムクホーク,398,normal,flying,4,0
+Bidoof,Plump Mouse Pokémon,Bippaビッパ,399,normal,,4,0
+Bibarel,Beaver Pokémon,Beadaruビーダル,400,normal,water,4,0
+Kricketot,Cricket Pokémon,Korobohshiコロボーシ,401,bug,,4,0
+Kricketune,Cricket Pokémon,Korotockコロトック,402,bug,,4,0
+Shinx,Flash Pokémon,Kolinkコリンク,403,electric,,4,0
+Luxio,Spark Pokémon,Luxioルクシオ,404,electric,,4,0
+Luxray,Gleam Eyes Pokémon,Rentorarレントラー,405,electric,,4,0
+Budew,Bud Pokémon,Subomieスボミー,406,grass,poison,4,0
+Roserade,Bouquet Pokémon,Roseradeロズレイド,407,grass,poison,4,0
+Cranidos,Head Butt Pokémon,Zugaidosズガイドス,408,rock,,4,0
+Rampardos,Head Butt Pokémon,Rampaldラムパルド,409,rock,,4,0
+Shieldon,Shield Pokémon,Tatetopsタテトプス,410,rock,steel,4,0
+Bastiodon,Shield Pokémon,Toridepsトリデプス,411,rock,steel,4,0
+Burmy,Bagworm Pokémon,Minomucchiミノムッチ,412,bug,,4,0
+Wormadam,Bagworm Pokémon,Minomadam (kusaki No Mino)ミノマダム,413,bug,grass,4,0
+Mothim,Moth Pokémon,Gamaleガーメイル,414,bug,flying,4,0
+Combee,Tiny Bee Pokémon,Mitsuhoneyミツハニー,415,bug,flying,4,0
+Vespiquen,Beehive Pokémon,Beequenビークイン,416,bug,flying,4,0
+Pachirisu,EleSquirrel Pokémon,Pachirisuパチリス,417,electric,,4,0
+Buizel,Sea Weasel Pokémon,Buoyselブイゼル,418,water,,4,0
+Floatzel,Sea Weasel Pokémon,Floazelフローゼル,419,water,,4,0
+Cherubi,Cherry Pokémon,Cherinboチェリンボ,420,grass,,4,0
+Cherrim,Blossom Pokémon,Cherrimチェリム,421,grass,,4,0
+Shellos,Sea Slug Pokémon,Karanakushiカラナクシ,422,water,,4,0
+Gastrodon,Sea Slug Pokémon,Tritodonトリトドン,423,water,ground,4,0
+Ambipom,Long Tail Pokémon,Etebothエテボース,424,normal,,4,0
+Drifloon,Balloon Pokémon,Fuwanteフワンテ,425,ghost,flying,4,0
+Drifblim,Blimp Pokémon,Fuwarideフワライド,426,ghost,flying,4,0
+Buneary,Rabbit Pokémon,Mimirolミミロル,427,normal,,4,0
+Lopunny,Rabbit Pokémon,Mimilopミミロップ,428,normal,,4,0
+Mismagius,Magical Pokémon,Mumargiムウマージ,429,ghost,,4,0
+Honchkrow,Big Boss Pokémon,Dongkarasuドンカラス,430,dark,flying,4,0
+Glameow,Catty Pokémon,Nyarmarニャルマー,431,normal,,4,0
+Purugly,Tiger Cat Pokémon,Bunyattoブニャット,432,normal,,4,0
+Chingling,Bell Pokémon,Lisyanリーシャン,433,psychic,,4,0
+Stunky,Skunk Pokémon,Skunpuuスカンプー,434,poison,dark,4,0
+Skuntank,Skunk Pokémon,Skutankスカタンク,435,poison,dark,4,0
+Bronzor,Bronze Pokémon,Dohmirrorドーミラー,436,steel,psychic,4,0
+Bronzong,Bronze Bell Pokémon,Dohtakunドータクン,437,steel,psychic,4,0
+Bonsly,Bonsai Pokémon,Usohachiウソハチ,438,rock,,4,0
+Mime Jr.,Mime Pokémon,Maneneマネネ,439,psychic,fairy,4,0
+Happiny,Playhouse Pokémon,Pinpukuピンプク,440,normal,,4,0
+Chatot,Music Note Pokémon,Perapペラップ,441,normal,flying,4,0
+Spiritomb,Forbidden Pokémon,Mikarugeミカルゲ,442,ghost,dark,4,0
+Gible,Land Shark Pokémon,Fukamaruフカマル,443,dragon,ground,4,0
+Gabite,Cave Pokémon,Gabiteガバイト,444,dragon,ground,4,0
+Garchomp,Mach Pokémon,Gaburiasガブリアス,445,dragon,ground,4,0
+Munchlax,Big Eater Pokémon,Gonbeゴンベ,446,normal,,4,0
+Riolu,Emanation Pokémon,Rioluリオル,447,fighting,,4,0
+Lucario,Aura Pokémon,Lucarioルカリオ,448,fighting,steel,4,0
+Hippopotas,Hippo Pokémon,Hippopotasヒポポタス,449,ground,,4,0
+Hippowdon,Heavyweight Pokémon,Kabaldonカバルドン,450,ground,,4,0
+Skorupi,Scorpion Pokémon,Scorupiスコルピ,451,poison,bug,4,0
+Drapion,Ogre Scorp Pokémon,Dorapionドラピオン,452,poison,dark,4,0
+Croagunk,Toxic Mouth Pokémon,Gureggruグレッグル,453,poison,fighting,4,0
+Toxicroak,Toxic Mouth Pokémon,Dokurogドクロッグ,454,poison,fighting,4,0
+Carnivine,Bug Catcher Pokémon,Muskippaマスキッパ,455,grass,,4,0
+Finneon,Wing Fish Pokémon,Keikouoケイコウオ,456,water,,4,0
+Lumineon,Neon Pokémon,Neolantネオラント,457,water,,4,0
+Mantyke,Kite Pokémon,Tamantaタマンタ,458,water,flying,4,0
+Snover,Frosted Tree Pokémon,Yukikaburiユキカブリ,459,grass,ice,4,0
+Abomasnow,Frosted Tree Pokémon,Yukinoohユキノオー,460,grass,ice,4,0
+Weavile,Sharp Claw Pokémon,Manyulaマニューラ,461,dark,ice,4,0
+Magnezone,Magnet Area Pokémon,Jibacoilジバコイル,462,electric,steel,4,0
+Lickilicky,Licking Pokémon,Berobeltベロベルト,463,normal,,4,0
+Rhyperior,Drill Pokémon,Dosidonドサイドン,464,ground,rock,4,0
+Tangrowth,Vine Pokémon,Mojumboモジャンボ,465,grass,,4,0
+Electivire,Thunderbolt Pokémon,Elekibleエレキブル,466,electric,,4,0
+Magmortar,Blast Pokémon,Booburnブーバーン,467,fire,,4,0
+Togekiss,Jubilee Pokémon,Togekissトゲキッス,468,fairy,flying,4,0
+Yanmega,Ogre Darner Pokémon,Megayanmaメガヤンマ,469,bug,flying,4,0
+Leafeon,Verdant Pokémon,Leafiaリーフィア,470,grass,,4,0
+Glaceon,Fresh Snow Pokémon,Glaciaグレイシア,471,ice,,4,0
+Gliscor,Fang Scorp Pokémon,Glionグライオン,472,ground,flying,4,0
+Mamoswine,Twin Tusk Pokémon,Mammooマンムー,473,ice,ground,4,0
+Porygon-Z,Virtual Pokémon,Porygon-zポリゴンＺ,474,normal,,4,0
+Gallade,Blade Pokémon,Erureidoエルレイド,475,psychic,fighting,4,0
+Probopass,Compass Pokémon,Dainoseダイノーズ,476,rock,steel,4,0
+Dusknoir,Gripper Pokémon,Yonoirヨノワール,477,ghost,,4,0
+Froslass,Snow Land Pokémon,Yukimenokoユキメノコ,478,ice,ghost,4,0
+Rotom,Plasma Pokémon,Rotomロトム,479,electric,ghost,4,0
+Uxie,Knowledge Pokémon,Yuxieユクシー,480,psychic,,4,1
+Mesprit,Emotion Pokémon,Emritエムリット,481,psychic,,4,1
+Azelf,Willpower Pokémon,Agnomeアグノム,482,psychic,,4,1
+Dialga,Temporal Pokémon,Dialgaディアルガ,483,steel,dragon,4,1
+Palkia,Spatial Pokémon,Palkiaパルキア,484,water,dragon,4,1
+Heatran,Lava Dome Pokémon,Heatranヒードラン,485,fire,steel,4,1
+Regigigas,Colossal Pokémon,Regigigasレジギガス,486,normal,,4,1
+Giratina,Renegade Pokémon,Giratina (another Forme)ギラティナ,487,ghost,dragon,4,1
+Cresselia,Lunar Pokémon,Cresseliaクレセリア,488,psychic,,4,1
+Phione,Sea Drifter Pokémon,Phioneフィオネ,489,water,,4,0
+Manaphy,Seafaring Pokémon,Manaphyマナフィ,490,water,,4,1
+Darkrai,Pitch-Black Pokémon,Darkraiダークライ,491,dark,,4,1
+Shaymin,Gratitude Pokémon,Shaymin (sky Forme)シェイミ,492,grass,grass,4,1
+Arceus,Alpha Pokémon,Arceusアルセウス,493,normal,,4,1
+Victini,Victory Pokémon,Victiniビクティニ,494,psychic,fire,5,1
+Snivy,Grass Snake Pokémon,Tsutarjaツタージャ,495,grass,,5,0
+Servine,Grass Snake Pokémon,Janovyジャノビー,496,grass,,5,0
+Serperior,Regal Pokémon,Jalordaジャローダ,497,grass,,5,0
+Tepig,Fire Pig Pokémon,Pokabuポカブ,498,fire,,5,0
+Pignite,Fire Pig Pokémon,Chaobooチャオブー,499,fire,fighting,5,0
+Emboar,Mega Fire Pig Pokémon,Enbuohエンブオー,500,fire,fighting,5,0
+Oshawott,Sea Otter Pokémon,Mijumaruミジュマル,501,water,,5,0
+Dewott,Discipline Pokémon,Futachimaruフタチマル,502,water,,5,0
+Samurott,Formidable Pokémon,Daikenkiダイケンキ,503,water,,5,0
+Patrat,Scout Pokémon,Minezumiミネズミ,504,normal,,5,0
+Watchog,Lookout Pokémon,Miruhogミルホッグ,505,normal,,5,0
+Lillipup,Puppy Pokémon,Yorterrieヨーテリー,506,normal,,5,0
+Herdier,Loyal Dog Pokémon,Herderrieハーデリア,507,normal,,5,0
+Stoutland,Big-Hearted Pokémon,Moolandムーランド,508,normal,,5,0
+Purrloin,Devious Pokémon,Choronekoチョロネコ,509,dark,,5,0
+Liepard,Cruel Pokémon,Lepardasレパルダス,510,dark,,5,0
+Pansage,Grass Monkey Pokémon,Yanappuヤナップ,511,grass,,5,0
+Simisage,Thorn Monkey Pokémon,Yanakkieヤナッキー,512,grass,,5,0
+Pansear,High Temp Pokémon,Baoppuバオップ,513,fire,,5,0
+Simisear,Ember Pokémon,Baokkieバオッキー,514,fire,,5,0
+Panpour,Spray Pokémon,Hiyappuヒヤップ,515,water,,5,0
+Simipour,Geyser Pokémon,Hiyakkieヒヤッキー,516,water,,5,0
+Munna,Dream Eater Pokémon,Munnaムンナ,517,psychic,,5,0
+Musharna,Drowsing Pokémon,Musharnaムシャーナ,518,psychic,,5,0
+Pidove,Tiny Pigeon Pokémon,Mamepatoマメパト,519,normal,flying,5,0
+Tranquill,Wild Pigeon Pokémon,Hatobohハトーボー,520,normal,flying,5,0
+Unfezant,Proud Pokémon,Kenhallowケンホロウ,521,normal,flying,5,0
+Blitzle,Electrified Pokémon,Shimamaシママ,522,electric,,5,0
+Zebstrika,Thunderbolt Pokémon,Zebraikaゼブライカ,523,electric,,5,0
+Roggenrola,Mantle Pokémon,Dangoroダンゴロ,524,rock,,5,0
+Boldore,Ore Pokémon,Gantleガントル,525,rock,,5,0
+Gigalith,Compressed Pokémon,Gigaiathギガイアス,526,rock,,5,0
+Woobat,Bat Pokémon,Koromoriコロモリ,527,psychic,flying,5,0
+Swoobat,Courting Pokémon,Kokoromoriココロモリ,528,psychic,flying,5,0
+Drilbur,Mole Pokémon,Mogurewモグリュー,529,ground,,5,0
+Excadrill,Subterrene Pokémon,Doryuzuドリュウズ,530,ground,steel,5,0
+Audino,Hearing Pokémon,Tabunneタブンネ,531,normal,,5,0
+Timburr,Muscular Pokémon,Dokkorerドッコラー,532,fighting,,5,0
+Gurdurr,Muscular Pokémon,Dotekkotsuドテッコツ,533,fighting,,5,0
+Conkeldurr,Muscular Pokémon,Roubushinローブシン,534,fighting,,5,0
+Tympole,Tadpole Pokémon,Otamaroオタマロ,535,water,,5,0
+Palpitoad,Vibration Pokémon,Gamagaruガマガル,536,water,ground,5,0
+Seismitoad,Vibration Pokémon,Gamagerogeガマゲロゲ,537,water,ground,5,0
+Throh,Judo Pokémon,Nagekiナゲキ,538,fighting,,5,0
+Sawk,Karate Pokémon,Dagekiダゲキ,539,fighting,,5,0
+Sewaddle,Sewing Pokémon,Kurumiruクルミル,540,bug,grass,5,0
+Swadloon,Leaf-Wrapped Pokémon,Kurumayuクルマユ,541,bug,grass,5,0
+Leavanny,Nurturing Pokémon,Hahakomoriハハコモリ,542,bug,grass,5,0
+Venipede,Centipede Pokémon,Fushideフシデ,543,bug,poison,5,0
+Whirlipede,Curlipede Pokémon,Wheegaホイーガ,544,bug,poison,5,0
+Scolipede,Megapede Pokémon,Pendrorペンドラー,545,bug,poison,5,0
+Cottonee,Cotton Puff Pokémon,Monmenモンメン,546,grass,fairy,5,0
+Whimsicott,Windveiled Pokémon,Elfuunエルフーン,547,grass,fairy,5,0
+Petilil,Bulb Pokémon,Churineチュリネ,548,grass,,5,0
+Lilligant,Flowering Pokémon,Dredearドレディア,549,grass,,5,0
+Basculin,Hostile Pokémon,Bassraoバスラオ,550,water,,5,0
+Sandile,Desert Croc Pokémon,Megurocoメグロコ,551,ground,dark,5,0
+Krokorok,Desert Croc Pokémon,Waruvileワルビル,552,ground,dark,5,0
+Krookodile,Intimidation Pokémon,Waruvialワルビアル,553,ground,dark,5,0
+Darumaka,Zen Charm Pokémon,Darumakkaダルマッカ,554,fire,,5,0
+Darmanitan,Blazing Pokémon,Hihidarumaヒヒダルマ,555,fire,fire,5,0
+Maractus,Cactus Pokémon,Maracacchiマラカッチ,556,grass,,5,0
+Dwebble,Rock Inn Pokémon,Ishizumaiイシズマイ,557,bug,rock,5,0
+Crustle,Stone Home Pokémon,Iwapalaceイワパレス,558,bug,rock,5,0
+Scraggy,Shedding Pokémon,Zurugguズルッグ,559,dark,fighting,5,0
+Scrafty,Hoodlum Pokémon,Zuruzukinズルズキン,560,dark,fighting,5,0
+Sigilyph,Avianoid Pokémon,Symbolerシンボラー,561,psychic,flying,5,0
+Yamask,Spirit Pokémon,Desumasuデスマス,562,ghost,,5,0
+Cofagrigus,Coffin Pokémon,Desukarnデスカーン,563,ghost,,5,0
+Tirtouga,Prototurtle Pokémon,Protogaプロトーガ,564,water,rock,5,0
+Carracosta,Prototurtle Pokémon,Abagouraアバゴーラ,565,water,rock,5,0
+Archen,First Bird Pokémon,Archenアーケン,566,rock,flying,5,0
+Archeops,First Bird Pokémon,Archeosアーケオス,567,rock,flying,5,0
+Trubbish,Trash Bag Pokémon,Yabukuronヤブクロン,568,poison,,5,0
+Garbodor,Trash Heap Pokémon,Dustdasダストダス,569,poison,,5,0
+Zorua,Tricky Fox Pokémon,Zoruaゾロア,570,dark,,5,0
+Zoroark,Illusion Fox Pokémon,Zoroarkゾロアーク,571,dark,,5,0
+Minccino,Chinchilla Pokémon,Chillarmyチラーミィ,572,normal,,5,0
+Cinccino,Scarf Pokémon,Chillaccinoチラチーノ,573,normal,,5,0
+Gothita,Fixation Pokémon,Gothimuゴチム,574,psychic,,5,0
+Gothorita,Manipulate Pokémon,Gothimiruゴチミル,575,psychic,,5,0
+Gothitelle,Astral Body Pokémon,Gothiruselleゴチルゼル,576,psychic,,5,0
+Solosis,Cell Pokémon,Uniranユニラン,577,psychic,,5,0
+Duosion,Mitosis Pokémon,Doublanダブラン,578,psychic,,5,0
+Reuniclus,Multiplying Pokémon,Lanculusランクルス,579,psychic,,5,0
+Ducklett,Water Bird Pokémon,Koaruhieコアルヒー,580,water,flying,5,0
+Swanna,White Bird Pokémon,Swannaスワンナ,581,water,flying,5,0
+Vanillite,Fresh Snow Pokémon,Vanipetiバニプッチ,582,ice,,5,0
+Vanillish,Icy Snow Pokémon,Vanirichバニリッチ,583,ice,,5,0
+Vanilluxe,Snowstorm Pokémon,Baivanillaバイバニラ,584,ice,,5,0
+Deerling,Season Pokémon,Shikijikaシキジカ,585,normal,grass,5,0
+Sawsbuck,Season Pokémon,Mebukijikaメブキジカ,586,normal,grass,5,0
+Emolga,Sky Squirrel Pokémon,Emongaエモンガ,587,electric,flying,5,0
+Karrablast,Clamping Pokémon,Kaburumoカブルモ,588,bug,,5,0
+Escavalier,Cavalry Pokémon,Chevargoシュバルゴ,589,bug,steel,5,0
+Foongus,Mushroom Pokémon,Tamagetakeタマゲタケ,590,grass,poison,5,0
+Amoonguss,Mushroom Pokémon,Morobareruモロバレル,591,grass,poison,5,0
+Frillish,Floating Pokémon,Pururillプルリル,592,water,ghost,5,0
+Jellicent,Floating Pokémon,Burungelブルンゲル,593,water,ghost,5,0
+Alomomola,Caring Pokémon,Mamanbouママンボウ,594,water,,5,0
+Joltik,Attaching Pokémon,Bachuruバチュル,595,bug,electric,5,0
+Galvantula,EleSpider Pokémon,Dentulaデンチュラ,596,bug,electric,5,0
+Ferroseed,Thorn Seed Pokémon,Tesseedテッシード,597,grass,steel,5,0
+Ferrothorn,Thorn Pod Pokémon,Nutreyナットレイ,598,grass,steel,5,0
+Klink,Gear Pokémon,Giaruギアル,599,steel,,5,0
+Klang,Gear Pokémon,Gigiaruギギアル,600,steel,,5,0
+Klinklang,Gear Pokémon,Gigigiaruギギギアル,601,steel,,5,0
+Tynamo,EleFish Pokémon,Shibishirasuシビシラス,602,electric,,5,0
+Eelektrik,EleFish Pokémon,Shibibeelシビビール,603,electric,,5,0
+Eelektross,EleFish Pokémon,Shibirudonシビルドン,604,electric,,5,0
+Elgyem,Cerebral Pokémon,Ligrayリグレー,605,psychic,,5,0
+Beheeyem,Cerebral Pokémon,Ohbemオーベム,606,psychic,,5,0
+Litwick,Candle Pokémon,Hitomoshiヒトモシ,607,ghost,fire,5,0
+Lampent,Lamp Pokémon,Lamplerランプラー,608,ghost,fire,5,0
+Chandelure,Luring Pokémon,Chandelaシャンデラ,609,ghost,fire,5,0
+Axew,Tusk Pokémon,Kibagoキバゴ,610,dragon,,5,0
+Fraxure,Axe Jaw Pokémon,Onondoオノンド,611,dragon,,5,0
+Haxorus,Axe Jaw Pokémon,Ononokusオノノクス,612,dragon,,5,0
+Cubchoo,Chill Pokémon,Kumasyunクマシュン,613,ice,,5,0
+Beartic,Freezing Pokémon,Tunbearツンベアー,614,ice,,5,0
+Cryogonal,Crystallizing Pokémon,Freegeoフリージオ,615,ice,,5,0
+Shelmet,Snail Pokémon,Chobomakiチョボマキ,616,bug,,5,0
+Accelgor,Shell Out Pokémon,Agilderアギルダー,617,bug,,5,0
+Stunfisk,Trap Pokémon,Maggyoマッギョ,618,ground,electric,5,0
+Mienfoo,Martial Arts Pokémon,Kojofuコジョフー,619,fighting,,5,0
+Mienshao,Martial Arts Pokémon,Kojondoコジョンド,620,fighting,,5,0
+Druddigon,Cave Pokémon,Crimganクリムガン,621,dragon,,5,0
+Golett,Automaton Pokémon,Gobitゴビット,622,ground,ghost,5,0
+Golurk,Automaton Pokémon,Goloogゴルーグ,623,ground,ghost,5,0
+Pawniard,Sharp Blade Pokémon,Komatanaコマタナ,624,dark,steel,5,0
+Bisharp,Sword Blade Pokémon,Kirikizanキリキザン,625,dark,steel,5,0
+Bouffalant,Bash Buffalo Pokémon,Buffronバッフロン,626,normal,,5,0
+Rufflet,Eaglet Pokémon,Washibonワシボン,627,normal,flying,5,0
+Braviary,Valiant Pokémon,Warrgleウォーグル,628,normal,flying,5,0
+Vullaby,Diapered Pokémon,Valchaiバルチャイ,629,dark,flying,5,0
+Mandibuzz,Bone Vulture Pokémon,Vulginaバルジーナ,630,dark,flying,5,0
+Heatmor,Anteater Pokémon,Kuitaranクイタラン,631,fire,,5,0
+Durant,Iron Ant Pokémon,Aiantアイアント,632,bug,steel,5,0
+Deino,Irate Pokémon,Monozuモノズ,633,dark,dragon,5,0
+Zweilous,Hostile Pokémon,Diheadジヘッド,634,dark,dragon,5,0
+Hydreigon,Brutal Pokémon,Sazandoraサザンドラ,635,dark,dragon,5,0
+Larvesta,Torch Pokémon,Merlarvaメラルバ,636,bug,fire,5,0
+Volcarona,Sun Pokémon,Ulgamothウルガモス,637,bug,fire,5,0
+Cobalion,Iron Will Pokémon,Cobalonコバルオン,638,steel,fighting,5,1
+Terrakion,Cavern Pokémon,Terrakionテラキオン,639,rock,fighting,5,1
+Virizion,Grassland Pokémon,Virizionビリジオン,640,grass,fighting,5,1
+Tornadus,Cyclone Pokémon,Tornelos (keshin Forme)トルネロス,641,flying,,5,1
+Thundurus,Bolt Strike Pokémon,Voltolos (keshin Forme)ボルトロス,642,electric,flying,5,1
+Reshiram,Vast White Pokémon,Reshiramレシラム,643,dragon,fire,5,1
+Zekrom,Deep Black Pokémon,Zekromゼクロム,644,dragon,electric,5,1
+Landorus,Abundance Pokémon,Landlos (keshin Forme)ランドロス,645,ground,flying,5,1
+Kyurem,Boundary Pokémon,Kyuremキュレム,646,dragon,ice,5,1
+Keldeo,Colt Pokémon,Keldeo (itsumo No Sugata)ケルディオ,647,water,fighting,5,1
+Meloetta,Melody Pokémon,Meloetta (step Forme)メロエッタ,648,normal,psychic,5,1
+Genesect,Paleozoic Pokémon,Genesectゲノセクト,649,bug,steel,5,1
+Chespin,Spiky Nut Pokémon,Harimaronハリマロン,650,grass,,6,0
+Quilladin,Spiny Armor Pokémon,Hariborgハリボーグ,651,grass,,6,0
+Chesnaught,Spiny Armor Pokémon,Brigarronブリガロン,652,grass,fighting,6,0
+Fennekin,Fox Pokémon,Fokkoフォッコ,653,fire,,6,0
+Braixen,Fox Pokémon,Tairenarテールナー,654,fire,,6,0
+Delphox,Fox Pokémon,Mahoxyマフォクシー,655,fire,psychic,6,0
+Froakie,Bubble Frog Pokémon,Keromatsuケロマツ,656,water,,6,0
+Frogadier,Bubble Frog Pokémon,Gekogashiraゲコガシラ,657,water,,6,0
+Greninja,Ninja Pokémon,Gekkougaゲッコウガ,658,water,dark,6,0
+Bunnelby,Digging Pokémon,Horubeeホルビー,659,normal,,6,0
+Diggersby,Digging Pokémon,Horudoホルード,660,normal,ground,6,0
+Fletchling,Tiny Robin Pokémon,Yayakomaヤヤコマ,661,normal,flying,6,0
+Fletchinder,Ember Pokémon,Hinoyakomaヒノヤコマ,662,fire,flying,6,0
+Talonflame,Scorching Pokémon,Fiarrowファイアロー,663,fire,flying,6,0
+Scatterbug,Scatterdust Pokémon,Kofukimushiコフキムシ,664,bug,,6,0
+Spewpa,Scatterdust Pokémon,Kofuuraiコフーライ,665,bug,,6,0
+Vivillon,Scale Pokémon,Viviyonビビヨン,666,bug,flying,6,0
+Litleo,Lion Cub Pokémon,Shishikoシシコ,667,fire,normal,6,0
+Pyroar,Royal Pokémon,Kaenjishiカエンジシ,668,fire,normal,6,0
+Flabébé,Single Bloom Pokémon,Flabebeフラベベ,669,fairy,,6,0
+Floette,Fairy Pokémon,Floetteフラエッテ,670,fairy,,6,0
+Florges,Garden Pokémon,Florgesフラージェス,671,fairy,,6,0
+Skiddo,Mount Pokémon,Meecleメェークル,672,grass,,6,0
+Gogoat,Mount Pokémon,Gogoatゴーゴート,673,grass,,6,0
+Pancham,Playful Pokémon,Yanchamヤンチャム,674,fighting,,6,0
+Pangoro,Daunting Pokémon,Gorondaゴロンダ,675,fighting,dark,6,0
+Furfrou,Poodle Pokémon,Trimmienトリミアン,676,normal,,6,0
+Espurr,Restraint Pokémon,Nyasperニャスパー,677,psychic,,6,0
+Meowstic,Constraint Pokémon,Nyaonixニャオニクス,678,psychic,,6,0
+Honedge,Sword Pokémon,Hitotsukiヒトツキ,679,steel,ghost,6,0
+Doublade,Sword Pokémon,Nidangillニダンギル,680,steel,ghost,6,0
+Aegislash,Royal Sword Pokémon,Gillgardギルガルド,681,steel,ghost,6,0
+Spritzee,Perfume Pokémon,Shushupuシュシュプ,682,fairy,,6,0
+Aromatisse,Fragrance Pokémon,Frefuwanフレフワン,683,fairy,,6,0
+Swirlix,Cotton Candy Pokémon,Peroppafuペロッパフ,684,fairy,,6,0
+Slurpuff,Meringue Pokémon,Peroreamペロリーム,685,fairy,,6,0
+Inkay,Revolving Pokémon,Maaiikaマーイーカ,686,dark,psychic,6,0
+Malamar,Overturning Pokémon,Calamaneroカラマネロ,687,dark,psychic,6,0
+Binacle,Two-Handed Pokémon,Kameteteカメテテ,688,rock,water,6,0
+Barbaracle,Collective Pokémon,Gamenodesガメノデス,689,rock,water,6,0
+Skrelp,Mock Kelp Pokémon,Kuzumoクズモー,690,poison,water,6,0
+Dragalge,Mock Kelp Pokémon,Dramidoroドラミドロ,691,poison,dragon,6,0
+Clauncher,Water Gun Pokémon,Udeppouウデッポウ,692,water,,6,0
+Clawitzer,Howitzer Pokémon,Blosterブロスター,693,water,,6,0
+Helioptile,Generator Pokémon,Erikiteruエリキテル,694,electric,normal,6,0
+Heliolisk,Generator Pokémon,Elezardエレザード,695,electric,normal,6,0
+Tyrunt,Royal Heir Pokémon,Chigorasチゴラス,696,rock,dragon,6,0
+Tyrantrum,Despot Pokémon,Gachigorasガチゴラス,697,rock,dragon,6,0
+Amaura,Tundra Pokémon,Amarusアマルス,698,rock,ice,6,0
+Aurorus,Tundra Pokémon,Amarurugaアマルルガ,699,rock,ice,6,0
+Sylveon,Intertwining Pokémon,Nymphiaニンフィア,700,fairy,,6,0
+Hawlucha,Wrestling Pokémon,Luchabullルチャブル,701,fighting,flying,6,0
+Dedenne,Antenna Pokémon,Dedenneデデンネ,702,electric,fairy,6,0
+Carbink,Jewel Pokémon,Melecieメレシー,703,rock,fairy,6,0
+Goomy,Soft Tissue Pokémon,Numeraヌメラ,704,dragon,,6,0
+Sliggoo,Soft Tissue Pokémon,Numeilヌメイル,705,dragon,,6,0
+Goodra,Dragon Pokémon,Numelgonヌメルゴン,706,dragon,,6,0
+Klefki,Key Ring Pokémon,Cleffyクレッフィ,707,steel,fairy,6,0
+Phantump,Stump Pokémon,Bokureiボクレー,708,ghost,grass,6,0
+Trevenant,Elder Tree Pokémon,Ohrotオーロット,709,ghost,grass,6,0
+Pumpkaboo,Pumpkin Pokémon,Bakecchaバケッチャ,710,ghost,grass,6,0
+Gourgeist,Pumpkin Pokémon,Pumpjinパンプジン,711,ghost,grass,6,0
+Bergmite,Ice Chunk Pokémon,Kachikohruカチコール,712,ice,,6,0
+Avalugg,Iceberg Pokémon,Crebaseクレベース,713,ice,,6,0
+Noibat,Sound Wave Pokémon,Onbatオンバット,714,flying,dragon,6,0
+Noivern,Sound Wave Pokémon,Onvernオンバーン,715,flying,dragon,6,0
+Xerneas,Life Pokémon,Xerneasゼルネアス,716,fairy,,6,1
+Yveltal,Destruction Pokémon,Yveltalイベルタル,717,dark,flying,6,1
+Zygarde,Order Pokémon,Zygarde (10% Forme)ジガルデ,718,dragon,ground,6,1
+Diancie,Jewel Pokémon,Diancieディアンシー,719,rock,fairy,6,1
+Hoopa,Mischief Pokémon (Confined)Djinn Pokémonn (Unbound),Hoopa (imashimerareshi Hoopa)フーパ,720,psychic,ghost,6,1
+Volcanion,Steam Pokémon,Volcanionボルケニオン,721,fire,water,6,1
+Rowlet,Grass Quill Pokémon,Mokurohモクロー,722,grass,flying,7,0
+Dartrix,Blade Quill Pokémon,Fukuthrowフクスロー,723,grass,flying,7,0
+Decidueye,Arrow Quill Pokémon,Junaiperジュナイパー,724,grass,ghost,7,0
+Litten,Fire Cat Pokémon,Nyabbyニャビー,725,fire,,7,0
+Torracat,Fire Cat Pokémon,Nyaheatニャヒート,726,fire,,7,0
+Incineroar,Heel Pokémon,Gaogaenガオガエン,727,fire,dark,7,0
+Popplio,Sea Lion Pokémon,Ashimariアシマリ,728,water,,7,0
+Brionne,Pop Star Pokémon,Osyamariオシャマリ,729,water,,7,0
+Primarina,Soloist Pokémon,Ashireneアシレーヌ,730,water,fairy,7,0
+Pikipek,Woodpecker Pokémon,Tsutsukeraツツケラ,731,normal,flying,7,0
+Trumbeak,Bugle Beak Pokémon,Kerarappaケララッパ,732,normal,flying,7,0
+Toucannon,Cannon Pokémon,Dodekabashiドデカバシ,733,normal,flying,7,0
+Yungoos,Loitering Pokémon,Youngooseヤングース,734,normal,,7,0
+Gumshoos,Stakeout Pokémon,Dekagooseデカグース,735,normal,,7,0
+Grubbin,Larva Pokémon,Agojimushiアゴジムシ,736,bug,,7,0
+Charjabug,Battery Pokémon,Dendimushiデンヂムシ,737,bug,electric,7,0
+Vikavolt,Stag Beetle Pokémon,Kuwagannonクワガノン,738,bug,electric,7,0
+Crabrawler,Boxing Pokémon,Makenkaniマケンカニ,739,fighting,,7,0
+Crabominable,Woolly Crab Pokémon,Kekenkaniケケンカニ,740,fighting,ice,7,0
+Oricorio,Dancing Pokémon,Odoridori (pachipachi Style)オドリドリ,741,fire,flying,7,0
+Cutiefly,Bee Fly Pokémon,Abulyアブリー,742,bug,fairy,7,0
+Ribombee,Bee Fly Pokémon,Aburibbonアブリボン,743,bug,fairy,7,0
+Rockruff,Puppy Pokémon,Iwankoイワンコ,744,rock,,7,0
+Lycanroc,Wolf Pokémon,Lugarugan (mahiru No Sugata)ルガルガン,745,rock,,7,0
+Wishiwashi,Small Fry Pokémon,Yowashi (tandoku No Sugata)ヨワシ,746,water,,7,0
+Mareanie,Brutal Star Pokémon,Hidoideヒドイデ,747,poison,water,7,0
+Toxapex,Brutal Star Pokémon,Dohidoideドヒドイデ,748,poison,water,7,0
+Mudbray,Donkey Pokémon,Dorobankoドロバンコ,749,ground,,7,0
+Mudsdale,Draft Horse Pokémon,Banbadoroバンバドロ,750,ground,,7,0
+Dewpider,Water Bubble Pokémon,Shizukumoシズクモ,751,water,bug,7,0
+Araquanid,Water Bubble Pokémon,Onishizukumoオニシズクモ,752,water,bug,7,0
+Fomantis,Sickle Grass Pokémon,Karikiriカリキリ,753,grass,,7,0
+Lurantis,Bloom Sickle Pokémon,Lalantesラランテス,754,grass,,7,0
+Morelull,Illuminating Pokémon,Nemasyuネマシュ,755,grass,fairy,7,0
+Shiinotic,Illuminating Pokémon,Mashadeマシェード,756,grass,fairy,7,0
+Salandit,Toxic Lizard Pokémon,Yatoumoriヤトウモリ,757,poison,fire,7,0
+Salazzle,Toxic Lizard Pokémon,Ennewtエンニュート,758,poison,fire,7,0
+Stufful,Flailing Pokémon,Nuikogumaヌイコグマ,759,normal,fighting,7,0
+Bewear,Strong Arm Pokémon,Kiterugumaキテルグマ,760,normal,fighting,7,0
+Bounsweet,Fruit Pokémon,Amakajiアマカジ,761,grass,,7,0
+Steenee,Fruit Pokémon,Amamaikoアママイコ,762,grass,,7,0
+Tsareena,Fruit Pokémon,Amajoアマージョ,763,grass,,7,0
+Comfey,Posy Picker Pokémon,Cuwawaキュワワー,764,fairy,,7,0
+Oranguru,Sage Pokémon,Yareyuutanヤレユータン,765,normal,psychic,7,0
+Passimian,Teamwork Pokémon,Nagetukesaruナゲツケサル,766,fighting,,7,0
+Wimpod,Turn Tail Pokémon,Kosokumushiコソクムシ,767,bug,water,7,0
+Golisopod,Hard Scale Pokémon,Gusokumushaグソクムシャ,768,bug,water,7,0
+Sandygast,Sand Heap Pokémon,Sunabaスナバァ,769,ghost,ground,7,0
+Palossand,Sand Castle Pokémon,Sirodethnaシロデスナ,770,ghost,ground,7,0
+Pyukumuku,Sea Cucumber Pokémon,Namakobushiナマコブシ,771,water,,7,0
+Type: Null,Synthetic Pokémon,Type: Nullタイプ：ヌル,772,normal,,7,0
+Silvally,Synthetic Pokémon,Silvadyシルヴァディ,773,normal,,7,0
+Minior,Meteor Pokémon,Metenoメテノ,774,rock,flying,7,0
+Komala,Drowsing Pokémon,Nekkoaraネッコアラ,775,normal,,7,0
+Turtonator,Blast Turtle Pokémon,Bakugamesバクガメス,776,fire,dragon,7,0
+Togedemaru,Roly-Poly Pokémon,Togedemaruトゲデマル,777,electric,steel,7,0
+Mimikyu,Disguise Pokémon,Mimikkyuミミッキュ,778,ghost,fairy,7,0
+Bruxish,Gnash Teeth Pokémon,Hagigishiriハギギシリ,779,water,psychic,7,0
+Drampa,Placid Pokémon,Jijilongジジーロン,780,normal,dragon,7,0
+Dhelmise,Sea Creeper Pokémon,Dadarinダダリン,781,ghost,grass,7,0
+Jangmo-o,Scaly Pokémon,Jyarakoジャラコ,782,dragon,,7,0
+Hakamo-o,Scaly Pokémon,Jyarangoジャランゴ,783,dragon,fighting,7,0
+Kommo-o,Scaly Pokémon,Jyararangaジャラランガ,784,dragon,fighting,7,0
+Tapu Koko,Land Spirit Pokémon,Kapu-kokekoカプ・コケコ,785,electric,fairy,7,1
+Tapu Lele,Land Spirit Pokémon,Kapu-tetefuカプ・テテフ,786,psychic,fairy,7,1
+Tapu Bulu,Land Spirit Pokémon,Kapu-bululカプ・ブルル,787,grass,fairy,7,1
+Tapu Fini,Land Spirit Pokémon,Kapu-rehireカプ・レヒレ,788,water,fairy,7,1
+Cosmog,Nebula Pokémon,Cosmogコスモッグ,789,psychic,,7,1
+Cosmoem,Protostar Pokémon,Cosmovumコスモウム,790,psychic,,7,1
+Solgaleo,Sunne Pokémon,Solgaleoソルガレオ,791,psychic,steel,7,1
+Lunala,Moone Pokémon,Lunalaルナアーラ,792,psychic,ghost,7,1
+Nihilego,Parasite Pokémon,Uturoidウツロイド,793,rock,poison,7,1
+Buzzwole,Swollen Pokémon,Massivoonマッシブーン,794,bug,fighting,7,1
+Pheromosa,Lissome Pokémon,Pheroacheフェローチェ,795,bug,fighting,7,1
+Xurkitree,Glowing Pokémon,Denjyumokuデンジュモク,796,electric,,7,1
+Celesteela,Launch Pokémon,Tekkaguyaテッカグヤ,797,steel,flying,7,1
+Kartana,Drawn Sword Pokémon,Kamiturugiカミツルギ,798,grass,steel,7,1
+Guzzlord,Junkivore Pokémon,Akuzikingアクジキング,799,dark,dragon,7,1
+Necrozma,Prism Pokémon,Necrozmaネクロズマ,800,psychic,,7,1
+Magearna,Artificial Pokémon,Magearnaマギアナ,801,steel,fairy,7,1
