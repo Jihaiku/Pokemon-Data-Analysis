@@ -9,3 +9,6 @@ Below are two of the primary visualizations of each individual types. Which goes
 
 ![Pokemon_type1](https://user-images.githubusercontent.com/48660919/68547917-7aa7c280-03b5-11ea-9234-f1b5cd8ae256.PNG)
 ![Pokemon_type2](https://user-images.githubusercontent.com/48660919/68547918-7aa7c280-03b5-11ea-984b-0283f209f563.PNG)
+
+
+I will probably come back to this dataset later when I can find a proper visualization where I can show all six primary stats in one visualization like they do in the older pokemon books.
